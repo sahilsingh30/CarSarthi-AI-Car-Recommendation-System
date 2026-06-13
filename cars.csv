@@ -1,0 +1,104 @@
+car_name,brand,price,on_road_price,fuel_type,mileage,transmission,seating_capacity,safety_rating,maintenance_cost,ground_clearance,body_type,engine_cc,boot_space,fuel_tank,resale_score,has_touchscreen,has_sunroof,has_rear_camera,has_360_camera,has_cruise_control,has_wireless_aa,has_adas,has_rear_ac,emi_estimate,insurance_annual,maintenance_cost_num
+Maruti Alto 800,Maruti Suzuki,349000,398000,Petrol,22.05,Manual,5,1,Low,160,Hatchback,796,177,35,6,0,0,0,0,0,0,0,0,5728,11900.0,1
+Maruti Alto K10,Maruti Suzuki,399000,450000,Petrol,24.9,Manual,5,2,Low,160,Hatchback,998,214,35,7,0,0,0,0,0,0,0,0,6549,13500.0,1
+Maruti S-Presso,Maruti Suzuki,495000,560000,Petrol,25.3,Manual,5,2,Low,180,Hatchback,998,240,27,7,1,0,0,0,0,0,0,0,8125,16800.0,1
+Maruti S-Presso AMT,Maruti Suzuki,560000,630000,Petrol,24.1,Automatic,5,2,Low,180,Hatchback,998,240,27,6,1,0,1,0,0,0,0,0,9191,18900.0,1
+Datsun RediGO,Datsun,389000,440000,Petrol,22.7,Manual,5,1,Low,185,Hatchback,799,222,20,4,0,0,0,0,0,0,0,0,6385,13200.0,1
+Renault Kwid,Renault,499000,565000,Petrol,22.3,Manual,5,1,Low,184,Hatchback,999,279,28,5,1,0,0,0,0,0,0,0,8190,17000.0,1
+Maruti Celerio Petrol,Maruti Suzuki,579000,655000,Petrol,26.68,Manual,5,2,Low,170,Hatchback,998,235,32,7,1,0,0,0,0,0,0,0,9503,19600.0,1
+Maruti Celerio CNG,Maruti Suzuki,699000,790000,CNG,35.6,Manual,5,2,Low,170,Hatchback,998,235,32,7,1,0,0,0,0,0,0,0,11473,23700.0,1
+Maruti Wagon R Petrol,Maruti Suzuki,580000,660000,Petrol,23.56,Manual,5,2,Low,170,Hatchback,1197,341,32,8,1,0,0,0,0,0,0,0,9520,19800.0,1
+Maruti Wagon R CNG,Maruti Suzuki,620000,700000,CNG,34.05,Manual,5,2,Low,170,Hatchback,998,341,32,8,1,0,0,0,0,0,0,0,10176,21000.0,1
+Tata Tiago Petrol,Tata,599000,680000,Petrol,19.8,Manual,5,4,Low,168,Hatchback,1199,242,35,6,1,0,1,0,0,0,0,0,9832,20400.0,1
+Tata Tiago CNG,Tata,699000,790000,CNG,26.49,Manual,5,4,Low,168,Hatchback,1199,200,35,6,1,0,1,0,0,0,0,0,11473,23700.0,1
+Maruti Swift Manual,Maruti Suzuki,699000,790000,Petrol,23.76,Manual,5,3,Low,163,Hatchback,1197,268,37,9,1,0,1,0,0,1,0,0,11473,23700.0,1
+Maruti Swift AMT,Maruti Suzuki,799000,900000,Petrol,22.38,Automatic,5,3,Low,163,Hatchback,1197,268,37,8,1,0,1,0,0,1,0,0,13114,27000.0,1
+Hyundai Grand i10 Nios,Hyundai,689000,780000,Petrol,20.7,Manual,5,3,Low,165,Hatchback,1197,260,37,7,1,0,1,0,0,0,0,0,11309,23400.0,1
+Hyundai Grand i10 Nios CNG,Hyundai,780000,878000,CNG,27.4,Manual,5,3,Low,165,Hatchback,1197,220,37,7,1,0,0,0,0,0,0,0,12802,26300.0,1
+Tata Altroz Petrol,Tata,699000,790000,Petrol,19.05,Manual,5,5,Low,165,Hatchback,1199,345,37,7,1,0,1,0,0,0,0,0,11473,23700.0,1
+Tata Altroz Turbo,Tata,999000,1130000,Petrol,18.13,Manual,5,5,Low,165,Hatchback,1199,345,37,6,1,1,1,0,0,0,0,0,16397,33900.0,1
+Maruti Baleno Manual,Maruti Suzuki,849000,960000,Petrol,22.35,Manual,5,2,Low,170,Hatchback,1197,339,37,8,1,1,1,0,0,1,0,0,13935,28800.0,1
+Maruti Baleno CVT,Maruti Suzuki,969000,1090000,Petrol,22.94,Automatic,5,2,Low,170,Hatchback,1197,339,37,7,1,1,1,0,0,1,0,0,15904,32700.0,1
+Hyundai i20 Manual,Hyundai,999000,1130000,Petrol,20.35,Manual,5,3,Medium,173,Hatchback,1197,311,37,8,1,1,1,0,1,1,0,0,16397,33900.0,2
+Hyundai i20 Turbo DCT,Hyundai,1249000,1410000,Petrol,20.57,Automatic,5,3,Medium,173,Hatchback,998,311,37,7,1,1,1,0,1,1,0,0,20500,42300.0,2
+Toyota Glanza Manual,Toyota,779000,880000,Petrol,22.35,Manual,5,2,Low,170,Hatchback,1197,318,37,8,1,0,1,0,0,1,0,0,12786,26400.0,1
+Toyota Glanza CVT,Toyota,899000,1020000,Petrol,22.94,Automatic,5,2,Low,170,Hatchback,1197,318,37,8,1,1,1,0,0,1,0,0,14755,30600.0,1
+Citroen C3 Petrol,Citroen,699000,790000,Petrol,19.8,Manual,5,3,Medium,170,Hatchback,1199,316,40,5,1,0,1,0,0,0,0,0,11473,23700.0,2
+Volkswagen Polo,Volkswagen,1099000,1240000,Petrol,17.65,Manual,5,4,High,165,Hatchback,999,280,40,6,1,0,1,0,1,1,0,0,18038,37200.0,3
+MG Comet EV,MG,749000,840000,Electric,0.0,Automatic,4,2,Low,143,Hatchback,0,0,0,4,1,0,1,0,0,0,0,0,12294,25200.0,1
+Hyundai Aura Manual,Hyundai,769000,870000,Petrol,20.5,Manual,5,3,Low,165,Sedan,1197,402,37,7,1,0,1,0,0,0,0,0,12622,26100.0,1
+Hyundai Aura CNG,Hyundai,849000,960000,CNG,28.35,Manual,5,3,Low,165,Sedan,1197,340,37,7,1,0,1,0,0,0,0,0,13935,28800.0,1
+Maruti Dzire Manual,Maruti Suzuki,799000,900000,Petrol,23.26,Manual,5,2,Low,163,Sedan,1197,378,37,8,1,0,1,0,0,1,0,0,13114,27000.0,1
+Maruti Dzire CNG,Maruti Suzuki,899000,1010000,CNG,31.12,Manual,5,2,Low,163,Sedan,1197,315,37,8,1,0,1,0,0,1,0,0,14755,30300.0,1
+Tata Tigor Petrol,Tata,759000,860000,Petrol,19.95,Manual,5,4,Low,165,Sedan,1199,419,35,6,1,0,1,0,0,0,0,0,12458,25800.0,1
+Tata Tigor EV,Tata,1299000,1390000,Electric,0.0,Automatic,5,4,Low,165,Sedan,0,316,0,6,1,0,1,0,0,0,0,1,21321,41700.0,1
+Honda Amaze Manual,Honda,799000,900000,Petrol,18.6,Manual,5,3,Medium,170,Sedan,1199,420,35,7,1,0,1,0,0,0,0,0,13114,27000.0,2
+Honda Amaze CVT,Honda,969000,1090000,Petrol,18.0,Automatic,5,3,Medium,170,Sedan,1199,420,35,7,1,0,1,0,1,0,0,0,15904,32700.0,2
+Honda City Petrol,Honda,1299000,1470000,Petrol,17.8,Manual,5,5,Medium,165,Sedan,1498,506,40,8,1,1,1,0,1,1,0,1,21321,44100.0,2
+Honda City Hybrid,Honda,1999000,2250000,Petrol,26.5,Automatic,5,5,Medium,165,Sedan,1498,506,40,8,1,1,1,0,1,1,1,1,32810,67500.0,2
+Hyundai Verna Manual,Hyundai,1099000,1250000,Petrol,17.4,Manual,5,5,Medium,165,Sedan,1497,528,45,8,1,1,1,1,1,1,1,1,18038,37500.0,2
+Skoda Slavia Manual,Skoda,1199000,1360000,Petrol,19.0,Manual,5,5,High,179,Sedan,1000,521,50,7,1,1,1,0,1,1,0,1,19679,40800.0,3
+Volkswagen Virtus Manual,Volkswagen,1199000,1360000,Petrol,19.4,Manual,5,5,High,179,Sedan,1000,521,55,7,1,1,1,0,1,1,0,1,19679,40800.0,3
+Tata Punch Petrol,Tata,699000,790000,Petrol,18.8,Manual,5,5,Low,190,Compact SUV,1199,366,37,7,1,0,1,0,0,0,0,0,11473,23700.0,1
+Tata Punch CNG,Tata,799000,900000,CNG,26.49,Manual,5,5,Low,190,Compact SUV,1199,316,37,7,1,0,1,0,0,0,0,0,13114,27000.0,1
+Tata Punch EV,Tata,1099000,1200000,Electric,0.0,Automatic,5,5,Low,190,Compact SUV,0,366,0,6,1,0,1,0,1,1,0,0,18038,36000.0,1
+Hyundai Exter Petrol,Hyundai,699000,790000,Petrol,19.4,Manual,5,4,Low,185,Compact SUV,1197,391,37,7,1,1,1,0,0,1,0,0,11473,23700.0,1
+Hyundai Exter CNG,Hyundai,799000,900000,CNG,27.1,Manual,5,4,Low,185,Compact SUV,1197,330,37,7,1,1,1,0,0,1,0,0,13114,27000.0,1
+Renault Kiger Manual,Renault,699000,790000,Petrol,20.53,Manual,5,3,Low,205,Compact SUV,999,405,40,6,1,0,1,0,0,0,0,0,11473,23700.0,1
+Nissan Magnite Manual,Nissan,699000,790000,Petrol,20.0,Manual,5,3,Low,205,Compact SUV,999,336,40,6,1,1,1,0,0,0,0,0,11473,23700.0,1
+Maruti Fronx Petrol,Maruti Suzuki,849000,960000,Petrol,21.79,Manual,5,2,Low,190,Compact SUV,1197,308,37,7,1,1,1,0,0,1,0,0,13935,28800.0,1
+Maruti Fronx Turbo,Maruti Suzuki,1049000,1190000,Petrol,20.01,Manual,5,2,Low,190,Compact SUV,998,308,37,7,1,1,1,0,0,1,0,0,17217,35700.0,1
+Maruti Fronx CNG,Maruti Suzuki,1049000,1190000,CNG,28.51,Manual,5,2,Low,190,Compact SUV,1197,308,37,7,1,1,1,0,0,1,0,0,17217,35700.0,1
+Maruti Brezza Manual,Maruti Suzuki,999000,1130000,Petrol,19.8,Manual,5,5,Low,198,Compact SUV,1462,328,48,9,1,1,1,0,1,1,0,0,16397,33900.0,1
+Maruti Brezza AT,Maruti Suzuki,1129000,1270000,Petrol,19.0,Automatic,5,5,Low,198,Compact SUV,1462,328,48,8,1,1,1,0,1,1,0,0,18531,38100.0,1
+Hyundai Venue Manual,Hyundai,899000,1020000,Petrol,18.4,Manual,5,4,Medium,195,Compact SUV,1197,350,45,8,1,1,1,0,1,1,0,0,14755,30600.0,2
+Hyundai Venue Turbo DCT,Hyundai,1199000,1350000,Petrol,18.15,Automatic,5,4,Medium,195,Compact SUV,998,350,45,7,1,1,1,0,1,1,0,0,19679,40500.0,2
+Tata Nexon Petrol,Tata,899000,1020000,Petrol,17.0,Manual,5,5,Low,209,Compact SUV,1199,350,44,8,1,1,1,0,0,0,0,1,14755,30600.0,1
+Tata Nexon Diesel,Tata,1099000,1240000,Diesel,22.0,Manual,5,5,Medium,209,Compact SUV,1497,350,44,7,1,1,1,0,0,0,0,1,18038,37200.0,2
+Tata Nexon EV,Tata,1429000,1550000,Electric,0.0,Automatic,5,5,Low,209,Compact SUV,0,350,0,7,1,1,1,0,1,1,0,1,23454,46500.0,1
+Kia Sonet Petrol,Kia,899000,1020000,Petrol,18.4,Manual,5,4,Medium,205,Compact SUV,1197,392,45,8,1,1,1,0,1,1,0,0,14755,30600.0,2
+Kia Sonet Diesel AT,Kia,1299000,1470000,Diesel,24.1,Automatic,5,4,Medium,205,Compact SUV,1493,392,45,7,1,1,1,0,1,1,0,0,21321,44100.0,2
+Mahindra XUV300 Petrol,Mahindra,899000,1020000,Petrol,17.0,Manual,5,5,Medium,180,Compact SUV,1197,257,41,7,1,1,1,0,0,0,0,0,14755,30600.0,2
+Mahindra XUV300 Diesel,Mahindra,1099000,1240000,Diesel,20.0,Manual,5,5,Medium,180,Compact SUV,1497,257,41,7,1,1,1,0,1,1,0,0,18038,37200.0,2
+Hyundai Creta Petrol,Hyundai,1099000,1250000,Petrol,16.8,Manual,5,5,Medium,190,Compact SUV,1497,433,50,9,1,1,1,1,1,1,1,1,18038,37500.0,2
+Hyundai Creta Diesel AT,Hyundai,1799000,2020000,Diesel,21.4,Automatic,5,5,Medium,190,Compact SUV,1493,433,50,8,1,1,1,1,1,1,1,1,29527,60600.0,2
+Hyundai Creta EV,Hyundai,1799000,1950000,Electric,0.0,Automatic,5,5,Low,190,Compact SUV,0,433,0,7,1,1,1,1,1,1,1,1,29527,58500.0,1
+Kia Seltos Petrol,Kia,1099000,1250000,Petrol,16.5,Manual,5,5,Medium,190,Compact SUV,1497,433,50,9,1,1,1,1,1,1,1,1,18038,37500.0,2
+Toyota Hyryder Manual,Toyota,1099000,1240000,Petrol,21.14,Manual,5,5,Low,190,Compact SUV,1462,373,48,9,1,1,1,0,1,1,0,0,18038,37200.0,1
+Toyota Hyryder Hybrid,Toyota,1499000,1690000,Petrol,27.97,Automatic,5,5,Low,190,Compact SUV,1490,373,36,9,1,1,1,0,1,1,0,1,24603,50700.0,1
+Maruti Grand Vitara Manual,Maruti Suzuki,1099000,1250000,Petrol,21.11,Manual,5,5,Low,190,Compact SUV,1462,373,45,9,1,1,1,0,1,1,0,1,18038,37500.0,1
+Maruti Grand Vitara Hybrid,Maruti Suzuki,1699000,1910000,Petrol,27.97,Automatic,5,5,Low,190,Compact SUV,1490,373,36,9,1,1,1,0,1,1,0,1,27886,57300.0,1
+Volkswagen Taigun Manual,Volkswagen,1199000,1360000,Petrol,17.8,Manual,5,5,High,188,Compact SUV,1000,385,50,7,1,1,1,0,1,1,0,0,19679,40800.0,3
+Skoda Kushaq Manual,Skoda,1199000,1360000,Petrol,16.5,Manual,5,5,High,188,Compact SUV,1000,385,50,7,1,1,1,0,1,1,0,0,19679,40800.0,3
+MG Astor Manual,MG,1099000,1250000,Petrol,16.31,Manual,5,5,Medium,183,Compact SUV,1349,423,48,7,1,1,1,1,1,1,1,1,18038,37500.0,2
+MG ZS EV,MG,2199000,2490000,Electric,0.0,Automatic,5,5,Low,177,Compact SUV,0,448,0,6,1,1,1,1,1,1,1,1,36093,74700.0,1
+Honda Elevate Manual,Honda,1199000,1360000,Petrol,15.3,Manual,5,5,Medium,220,Compact SUV,1498,458,40,8,1,1,1,0,1,1,0,1,19679,40800.0,2
+Honda Elevate CVT,Honda,1399000,1580000,Petrol,16.92,Automatic,5,5,Medium,220,Compact SUV,1498,458,40,8,1,1,1,0,1,1,0,1,22962,47400.0,2
+Tata Curvv Petrol,Tata,1099000,1240000,Petrol,16.0,Manual,5,5,Low,190,Compact SUV,1199,500,44,7,1,1,1,1,1,1,1,1,18038,37200.0,1
+Tata Curvv EV,Tata,1699000,1850000,Electric,0.0,Automatic,5,5,Low,190,Compact SUV,0,500,0,6,1,1,1,1,1,1,1,1,27886,55500.0,1
+Citroen C3 Aircross,Citroen,1099000,1240000,Petrol,16.84,Manual,7,3,Medium,180,Compact SUV,1199,390,45,5,1,0,1,0,0,0,0,1,18038,37200.0,2
+Mahindra BE 6e,Mahindra,1899000,2100000,Electric,0.0,Automatic,5,5,Low,207,Compact SUV,0,455,0,7,1,1,1,1,1,1,1,1,31169,63000.0,1
+Mahindra XUV700 Petrol,Mahindra,1399000,1590000,Petrol,15.1,Manual,7,5,Medium,200,SUV,1999,810,70,8,1,1,1,1,1,1,1,1,22962,47700.0,2
+Mahindra XUV700 Diesel,Mahindra,1499000,1690000,Diesel,16.0,Manual,7,5,Medium,200,SUV,2184,810,70,8,1,1,1,1,1,1,1,1,24603,50700.0,2
+Tata Harrier Diesel,Tata,1499000,1690000,Diesel,16.35,Manual,5,5,Medium,205,SUV,1956,425,50,7,1,1,1,1,1,1,0,1,24603,50700.0,2
+Tata Safari Diesel,Tata,1599000,1800000,Diesel,16.3,Manual,7,5,Medium,200,SUV,1956,447,50,7,1,1,1,1,1,1,0,1,26245,54000.0,2
+MG Hector Petrol,MG,1499000,1690000,Petrol,14.81,Manual,5,4,Medium,192,SUV,1451,587,60,7,1,1,1,0,1,1,0,1,24603,50700.0,2
+MG Hector Plus 7-Seat,MG,1699000,1910000,Petrol,13.96,Manual,7,4,Medium,192,SUV,1451,394,60,7,1,1,1,0,1,1,0,1,27886,57300.0,2
+Hyundai Alcazar Petrol,Hyundai,1699000,1910000,Petrol,14.5,Manual,7,5,Medium,200,SUV,1999,180,50,8,1,1,1,1,1,1,1,1,27886,57300.0,2
+Mahindra Scorpio-N Diesel,Mahindra,1349000,1530000,Diesel,15.0,Manual,7,5,Medium,200,SUV,2184,248,60,8,1,1,1,1,1,1,0,1,22141,45900.0,2
+Mahindra Scorpio Classic,Mahindra,1299000,1470000,Diesel,15.4,Manual,9,3,Low,180,SUV,2184,0,60,7,1,0,0,0,0,0,0,0,21321,44100.0,1
+Mahindra Bolero Diesel,Mahindra,949000,1070000,Diesel,15.96,Manual,9,1,Low,180,SUV,1493,0,70,7,0,0,0,0,0,0,0,0,15576,32100.0,1
+Mahindra Thar Petrol,Mahindra,1449000,1630000,Petrol,15.2,Manual,4,5,Medium,226,SUV,1997,0,57,8,1,0,1,0,0,1,0,0,23783,48900.0,2
+Maruti Jimny Petrol,Maruti Suzuki,1299000,1470000,Petrol,16.39,Manual,4,3,Medium,210,SUV,1462,208,40,7,1,0,1,0,0,1,0,0,21321,44100.0,2
+Toyota Fortuner Diesel,Toyota,3399000,3800000,Diesel,10.0,Manual,7,5,Medium,225,SUV,2755,296,80,9,1,1,1,1,1,1,0,1,55789,114000.0,2
+Mahindra XEV 9e,Mahindra,2899000,3200000,Electric,0.0,Automatic,5,5,Low,190,SUV,0,663,0,7,1,1,1,1,1,1,1,1,47582,96000.0,1
+Maruti Ertiga Petrol,Maruti Suzuki,899000,1020000,Petrol,20.3,Manual,7,3,Low,185,MPV,1462,803,45,8,1,0,1,0,0,1,0,1,14755,30600.0,1
+Maruti Ertiga CNG,Maruti Suzuki,999000,1130000,CNG,26.11,Manual,7,3,Low,185,MPV,1462,640,45,8,1,0,1,0,0,1,0,1,16397,33900.0,1
+Maruti XL6 Petrol,Maruti Suzuki,1199000,1360000,Petrol,20.97,Manual,6,3,Low,185,MPV,1462,803,45,8,1,1,1,0,0,1,0,1,19679,40800.0,1
+Maruti XL6 CNG,Maruti Suzuki,1299000,1470000,CNG,26.32,Manual,6,3,Low,185,MPV,1462,640,45,7,1,1,1,0,0,1,0,1,21321,44100.0,1
+Toyota Rumion Petrol,Toyota,949000,1070000,Petrol,20.3,Manual,7,3,Low,180,MPV,1462,803,45,8,1,0,1,0,0,0,0,1,15576,32100.0,1
+Toyota Rumion CNG,Toyota,1049000,1190000,CNG,26.11,Manual,7,3,Low,180,MPV,1462,640,45,8,1,0,1,0,0,0,0,1,17217,35700.0,1
+Kia Carens Petrol,Kia,1099000,1240000,Petrol,16.5,Manual,7,4,Medium,195,MPV,1497,645,45,7,1,1,1,0,1,1,0,1,18038,37200.0,2
+Kia Carens Diesel,Kia,1249000,1410000,Diesel,21.5,Manual,7,4,Medium,195,MPV,1493,645,45,7,1,1,1,0,1,1,0,1,20500,42300.0,2
+Toyota Innova HyCross,Toyota,1999000,2250000,Petrol,21.1,Automatic,8,5,Medium,185,MPV,1987,150,52,9,1,1,1,1,1,1,1,1,32810,67500.0,2
+Toyota Innova Crysta Diesel,Toyota,1999000,2250000,Diesel,11.26,Manual,8,4,Medium,178,MPV,2393,300,55,9,1,0,1,0,1,0,0,1,32810,67500.0,2
