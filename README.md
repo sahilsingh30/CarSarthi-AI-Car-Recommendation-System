@@ -1,6 +1,6 @@
 # 🚗 CarSarthi – AI Car Recommendation System
 
-<div align="center">
+
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red?style=flat-square&logo=streamlit)
@@ -11,7 +11,7 @@
 
 *India's Smartest Car Advisor for Middle-Class & Budget Buyers*
 
-</div>
+
 
 ---
 
